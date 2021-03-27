@@ -1,6 +1,6 @@
 # Dark Themed Dualsense Controller Overlay
 
-![overlay](https://user-images.githubusercontent.com/81459908/112720553-5c395d00-8eff-11eb-923c-82ebf048c8c5.mp4)
+![overlay](https://user-images.githubusercontent.com/81459908/112720568-74a97780-8eff-11eb-8a2f-43357899cf72.gif)
 
 This is a free dualsense controller overlay to use in your preferred streaming software.
 
